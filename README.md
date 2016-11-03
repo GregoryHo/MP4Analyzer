@@ -1,5 +1,11 @@
 # MP4Analyzer
 
+A quick tools foor analiysis on mp4 file.
+
+
+# MIT License
+
+
 ```
 
 Copyright (c) 2016 Gregory
